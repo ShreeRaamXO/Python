@@ -1,0 +1,5 @@
+a = input("enter a number")
+b = int(a)
+print('number is',b)
+print(type(a))
+print(type(b))
